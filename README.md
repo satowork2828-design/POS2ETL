@@ -62,8 +62,7 @@ These tools handle all dependency management and service orchestration.
 
 🛠️ Project Setup
 1. Clone the Repository
-git clone https://github.com/sholex111/pos2etl.git
-cd pos2etl
+
 
 2. Configure Environment Variables
 
